@@ -18,7 +18,7 @@
 
 ## Head Company:
 
-- [Red Technologies](https://github.com/Red-company)
+- _[Red Technologies](https://github.com/Red-company)_
 
 ## Why you're reading this?
 
@@ -42,4 +42,4 @@ _Together we will change this world.<br/>
 Now or later._
 
 #
-Continue: [Team-Members]().
+Continue: _[Team-Members](https://github.com/Red-Collaborate-Team/Team-Members)._
