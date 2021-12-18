@@ -3,4 +3,4 @@
             width:250px;
             height:auto;">
 
-# 🍻 Red Collaborate Team ()
+# 🍻 Red Collaborate Team (فريق ريد المتعاون)
