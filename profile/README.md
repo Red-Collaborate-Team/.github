@@ -21,3 +21,25 @@
 - [Red Technologies](https://github.com/Red-company)
 
 ## Why you're reading this?
+
+Not because this is advertisement, _no._<br/>
+
+You're reading this because your project is using by _Red._<br/>
+*You made a good job!*
+
+Our purpose is to _provide safety for people_<br/>
+and organizations that will be public,
+
+**_EASY_** to understand,<br/>
+**_OPEN_** for developers and<br/>
+**_SECURE_** for everyone.
+
+That means that _you're helping people._<br/>
+
+And now, you are a part of _Red._
+
+_Together we will change this world.<br/>
+Now or later._
+
+#
+Continue: [Team-Members]().
