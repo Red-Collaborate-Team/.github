@@ -4,3 +4,9 @@
             height:auto;">
 
 # 🍻 Red Collaborate Team (فريق ريد المتعاون)
+
+## Head Company:
+
+- [Red Technologies](https://github.com/Red-company)
+
+## Why you're reading this?
