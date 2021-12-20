@@ -41,5 +41,8 @@ And now, you are a part of _Red._
 _Together we will change this world.<br/>
 Now or later._
 
+Sincerely,
+_Red_ team.
+
 #
 Continue: _[Team-Members](https://github.com/Red-Collaborate-Team/Team-Members)._
