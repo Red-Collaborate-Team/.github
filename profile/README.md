@@ -16,6 +16,8 @@
             
 # 🍻 Red Collaborate Team (فريق ريد المتعاون)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&width=700&lines=Congratulations!+You+did+that.+Let's+change+the+world.)](https://git.io/typing-svg)
+
 ## Head Company:
 
 - _[Red Technologies](https://github.com/Red-company)_
