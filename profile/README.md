@@ -24,25 +24,26 @@
 
 ## Why you're reading this?
 
-Not because this is advertisement, _no._<br/>
+Not because this is advertisement, _no._<br/><br/>
 
-You're reading this because your project is using by _Red._<br/>
-*You made a good job!*
+You're reading this because your project now is being used by _Red._<br/>
+*You made a good job!*<br/>
 
 Our purpose is to _provide safety for people_<br/>
-and organizations that will be public,
+and organizations.<br/><br/><br/>
+We're interested in creating desicions that will be public,
 
-**_EASY_** to understand,<br/>
-**_OPEN_** for developers and<br/>
-**_SECURE_** for everyone.
+-**_EASY (.سهل)_**- to understand,<br/>
+-**_OPEN (.افتح)_**- for developers and<br/>
+-**_SECURE (.يؤمن)_**- for everyone.<br/>
 
-That means that _you're helping people._<br/>
+That means that _you're helping people._<br/><br/>
 
 And now, you are a part of _Red._
 
-_Together we will change this world.<br/>
-Now or later._
+_Together we will change this world._<br/><br/>
 
+_Thank you for your help!_<br/>
 Sincerely,
 _Red_ team.
 
