@@ -43,7 +43,7 @@ And now, you are a part of _Red._
 
 _Together we will change this world._<br/><br/>
 
-_Thank you for your help!_<br/>
+Let's continue changing it!<br/>
 Sincerely,
 _Red_ team.
 
